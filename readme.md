@@ -159,3 +159,7 @@ Follow the docs to configure the server, and the JSON to configure the client wo
   }
 }
 ```
+
+## Maintenance
+
+[Maintenance findings, acceptance checks and completion log](docs/maintenance.md).
