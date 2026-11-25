@@ -24,8 +24,8 @@ Supports:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AlexMercedCoder/langchain-mcp-client
-cd langchain-mcp-client
+git clone https://github.com/AlexMercedCoder/practice-mcp-client
+cd practice-mcp-client
 ```
 
 ### 2. Install Dependencies
