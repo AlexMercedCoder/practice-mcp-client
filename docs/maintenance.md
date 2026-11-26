@@ -6,7 +6,7 @@ Claim a row by entering your name or task ID and setting the status to **In prog
 
 | ID | Priority | Status | Owner | Fix and verification |
 | --- | --- | --- | --- | --- |
-| PMCP-01 | P2 | Blocked | — | `ee440df`. Clone instructions now match the checkout. Verified the checked-in server scripts, parsed the config and compiled the CLI. Fresh dependency install and CLI smoke are pending. |
+| PMCP-01 | P2 | Done | — | `ee440df`. Installed the declared requirements in a fresh Python 3.11 environment and launched the CLI from a clean Git snapshot. It reached the expected configuration check. |
 
 ### PMCP-01 · Point the quickstart at the code the reader is following
 
